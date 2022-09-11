@@ -1,0 +1,23 @@
+<div class="col-md-7 mb-5 mb-md-0">
+					<form action="#" id="test-form" class="site-form" name="google-sheet">
+						<h3 class="mb-5">Get In Touch</h3>
+						<div class="form-group">
+							<a href="https://docs.google.com/forms/d/e/1FAIpQLSdMawyrd0TlmBLpTIH7_NiK8wdJc_bIJZdPbbj-m_9dqfTJ8A/viewform">Fill your form here.</a>
+						</div>
+						<div class="form-group">
+							<input type="text" name ="Your Name" class="form-control px-3 py-4" placeholder="Your Name">
+						</div>
+						<div class="form-group">
+							<input type="email" name ="Your Email" class="form-control px-3 py-4" placeholder="Your Email">
+						</div>
+						<div class="form-group">
+							<input type="text" name ="Your Phone" class="form-control px-3 py-4" placeholder="Your Phone">
+						</div>
+						<div class="form-group mb-5">
+							<textarea class="form-control px-3 py-4"cols="30" rows="10" name ="Write a Message" placeholder="Write a Message"></textarea>
+						</div>
+						<div class="form-group">
+							<input type="submit" name ="Send Message" class="btn btn-primary  px-4 py-3" id="submit-form" value="Send Message">
+						</div>
+					</form>
+				</div>
